@@ -111,7 +111,7 @@ Passionate about writing clean, reliable software that delivers real business va
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-khan11&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=fahad-khan11&theme=radical" />
 </p>
 
 <p align="center">
