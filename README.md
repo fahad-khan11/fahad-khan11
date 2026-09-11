@@ -106,16 +106,11 @@ Passionate about writing clean, reliable software that delivers real business va
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad-khan11&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-khan11&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/fahad-khan11/fahad-khan11/main/github-metrics.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fahad-khan11&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad-khan11&theme=radical&no-frame=true&row=1&column=6" />
+  <em>Generated automatically by a GitHub Action (see <code>.github/workflows/stats.yml</code>) — no longer dependent on the shared public stats server, so it won't randomly break.</em>
 </p>
 
 ---
