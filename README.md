@@ -103,29 +103,19 @@ Passionate about writing clean, reliable software that delivers real business va
 
 ---
 
-<!--
-  ⚠️ FIX APPLIED: The username "fahad-khan11" used below could not be verified as an
-  active GitHub account, which is why the stats/streak/trophy images weren't rendering
-  (they all pull data from your GitHub profile via your username). Replace
-  YOUR_GITHUB_USERNAME in all 4 spots below with your real GitHub handle
-  (the one in the URL when you visit your own profile, e.g. github.com/your-handle).
-  cache_seconds=1800 has also been added to force these to refresh instead of
-  serving a stale/broken cached image.
--->
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad-khan11&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-khan11&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=fahad-khan11&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahad-khan11&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -148,5 +138,5 @@ Relevant Coursework: Database, OOP, DSA, Programming Fundamentals, Operating Sys
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=brightgreen&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=fahad-khan11&label=Profile%20Views&color=brightgreen&style=flat" alt="fahad-khan11" />
 </p>
